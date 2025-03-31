@@ -18,7 +18,7 @@ Hi, I'm Jorge Casalini!
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p align="start"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
@@ -49,9 +49,6 @@ Hi, I'm Jorge Casalini!
     </a>
     <a href="https://linkedin.com/in/jorgecasalini" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/jorgelucas.casalini" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:devjorgecasalini@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
