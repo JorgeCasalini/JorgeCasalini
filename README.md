@@ -28,6 +28,7 @@ Hi, I'm Jorge Casalini!
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="NodeJS" width="50" height="50"/> </a> 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="50" height="50"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
 </p>
@@ -36,10 +37,18 @@ Hi, I'm Jorge Casalini!
 ---
 
 ### 📊 Profile stats
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JorgeCasalini&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/JorgeCasalini">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeCasalini&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/JorgeCasalini">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCasalini&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
 
------
-<br />
+---
+<br>
 
 ## 📬 Contact me
 
